@@ -77,3 +77,27 @@
     | 例题 |Concatenation with intersection|[CF1313E](https://www.luogu.com.cn/problem/CF1313E)||
     | 例题 |论战捆竹竿|[UOJ172](https://uoj.ac/problem/172) [P4156](https://www.luogu.com.cn/problem/P4156)||
     | 例题 |重复|[UOJ476](https://uoj.ac/problem/476) [P5404](https://www.luogu.com.cn/problem/P5404)
+
++ SA
+    |来源|题目|题号|描述|
+    |:-:|:-:|:-:|:-:|
+    | 例题 |差异|[LOJ2377](https://loj.ac/p/2377)||
+    | 例题 |优秀的拆分|[LOJ2083](https://loj.ac/p/2377) [P1117](https://www.luogu.com.cn/problem/P1117)||
+    | 例题 |Annihilate|(没找到)||
+    | 例题 |品酒大会|[LOJ2133](https://loj.ac/p/2133) [P2178](https://www.luogu.com.cn/problem/P2178)||
+    | 例题 |(没找到)|BZOJ4278||
+    | 例题 |Very Long Suffix Array|[codechef](https://www.codechef.com/problems/TASUFFIX)||
+
++ SAM
+    |来源|题目|题号|描述|
+    |:-:|:-:|:-:|:-:|
+    | 例题 |yww与字符串|[LOJ6401](https://loj.ac/p/6401)||
+    | 例题 |事情的相似度|[LOJ6041](https://loj.ac/p/6041)
+    | 例题 |你的名字|[UOJ395](https://uoj.ac/problem/395) [P4770](https://www.luogu.com.cn/problem/P4770)||
+    | 例题 |PA2009 sza|(没找到)||
+
++ 广义后缀自动机
+    |来源|题目|题号|描述|
+    |:-:|:-:|:-:|:-:|
+    | 例题 |Forensic Examination|[CF666E](https://www.luogu.com.cn/problem/CF666E)||
+    | 例题 |诸神眷顾的幻想乡|[P3346](https://www.luogu.com.cn/problem/P3346)||
